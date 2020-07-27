@@ -1,0 +1,2 @@
+staticdemo.StaticDemo
+staticdemo.MyClass
